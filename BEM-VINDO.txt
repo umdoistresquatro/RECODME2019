@@ -1,0 +1,5 @@
+1.Cria uma pasta com o teu nome
+2.Nesta pasta cria um ficheiro chamado "bibliografia.txt" e escreve um pequeno paragrafo sobre ti.
+3.Envia a pasta para este repositório.
+
+Boa sorte!!!
